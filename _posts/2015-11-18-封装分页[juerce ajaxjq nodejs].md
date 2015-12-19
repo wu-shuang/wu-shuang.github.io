@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "封装分页"
-date:   2015-11-18
-categories: Bootstrap
-excerpt: juice ajax node jq
+layout : post
+title : "ajax,jq,node"
+category : git
+duoshuo: true
+date : 2015-12-20
+tags : ajax
 ---
 
-* content
-{:toc}
+
 
 
 

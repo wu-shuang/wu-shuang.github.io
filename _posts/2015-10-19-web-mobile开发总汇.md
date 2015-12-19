@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "web-mobile开发总汇"
-date:   2015-10-19 
-categories: Bootstrap
-excerpt: web
+layout : post
+title : "web-mobile"
+category : web
+duoshuo: true
+date : 2015-12-20
+tags : web
 ---
 
-* content
-{:toc}
+
 
 
 

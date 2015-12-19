@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "异步流程控制"
-date:   2015-11-18 
-categories: Bootstrap
-excerpt: 异步
+layout : post
+title : "异步"
+category : node
+duoshuo: true
+date : 2015-12-20
+tags : node
 ---
 
-* content
-{:toc}
+
 
 
 
