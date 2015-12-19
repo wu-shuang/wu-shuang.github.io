@@ -8,6 +8,27 @@ tags : ajax
 ---
 
 
+### 模板部分：product-list-tpl.html
+
+
+	<script type="text/juicer" id="product-list-tpl">
+	    {@each products as product}
+	    {@set statusName = '' }
+	    {@set className = '' }
+	    {@if product.status =='销售中' }
+				{@set className = 'button-div' }
+				{@set statusName ="立即购买" }
+		{@else if product.status =='待上架'}
+				{@set className = 'button-div button-arive' }
+				{@set statusName ="预售" }
+		{@else if product.status =='售完'|| products.status =='兑付中' }
+				{@set className = 'button-div-saleout' }
+				{@set statusName ="已售完" }
+		{@else if product.status =='已兑付' }
+				{@set className = 'status-p1' }
+				{@set statusName ="已兑付" }
+		{@/if}
+<!--more-->
 
 
 

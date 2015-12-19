@@ -7,9 +7,23 @@ date : 2015-12-20
 tags : node
 ---
 
+[出处](http://blog.fens.me/nodejs-async/)
 
+### 目录：
 
+1. Async介绍
+2. Async安装
+3. Async函数介绍
+4. async_demo使用介绍
+5. 场景：对数据库的连续操作
+6. async_demo我的分支
 
+### 1. Async介绍
+> Async是一个流程控制工具包，提供了直接而强大的异步功能。基于Javascript为Node.js设计，同时也可以直接在浏览器中使用。Async提供了大约20个函数，包括常用的 map, reduce, filter, forEach 等，异步流程控制模式包括，串行(series)，并行(parallel)，瀑布(waterfall)等。
+
+[项目地址](https://github.com/caolan/async).
+
+<!--more-->
 
 
 
