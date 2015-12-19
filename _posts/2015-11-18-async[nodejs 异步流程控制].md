@@ -27,8 +27,6 @@ tags : node
 
 <!-- more -->
 
-
-
 [出处](http://blog.fens.me/nodejs-async/)
 
 ### 目录：
