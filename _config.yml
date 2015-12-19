@@ -30,7 +30,7 @@ blog:
     clickiTongJi: 					                     # Clicki统计ID <---
     qiniu:                                               # 七牛云地址
 author:
-    name: wu-shuang                                          # 作者名称
+    name: wu-shuang                                      # 作者名称
     email: zhongciyisheng@gmail.com                      # 邮箱地址
    # weibo: http://weibo.com/comtu                       # 微博地址
     github: https://github.com/wu-shuang                 # GitHub地址
