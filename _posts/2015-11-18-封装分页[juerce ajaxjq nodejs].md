@@ -28,7 +28,8 @@ tags : ajax
 				{@set className = 'status-p1' }
 				{@set statusName ="已兑付" }
 		{@/if}
-<!--more-->
+
+<!-- more -->
 
 
 

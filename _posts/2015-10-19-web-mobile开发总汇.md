@@ -11,7 +11,8 @@ tags : web
 原名《移动平台3G手机网站前端开发布局技巧汇总》，由武方博整理的，让我们了解下移动设备上的WEB站点开发的基础知识，多些时间和精力去优化其他细节，我这里对原文的标签格式做了细微的调整，阅读查看起来明晰些，原文如下：
 
 －－－－－－－－－－－华丽的分割线－－－－－－－－－－－－－
-<!--more-->
+
+<!-- more -->
 
 
 [摘自- 移动平台WEB前端开发技巧汇总 ](http://uecss.com/mobile-platform-web-front-end-development-skills-summary.html)
