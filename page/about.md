@@ -29,13 +29,12 @@ blockquote p {
 
 
 
-> 网名: comtu   
-> Email: <a href="mailto:comtu@vip.qq.com">comtu@vip.qq.com</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:com.tu@hotmail.com">com.tu@hotmail.com</a>  
-> 微&nbsp;&nbsp;博: <a href="http://weibo.com/comtu">@Comtu</a>  
-> 博&nbsp;&nbsp;客: <a href="http://comtu.github.io/">comtu</a>  
-> GitHub：[comtu](https://github.com/comtu)  
-> CSDN: [comtu](http://my.csdn.net/comtu)  
+> 网名: 无双   
+> Email: <a href="mailto:zhongciyisheng@gmail.com">zhongciyisheng@gmail.com</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:zhongciyisheng@live.com">zhongciyisheng@live.com</a>  
+> qq:2220003888
+> 博&nbsp;&nbsp;客: <a href="http://wu-shuang.github.io/">comtu</a>  
+> GitHub：[comtu](https://github.com/wu-shuang)    
 > ....
 
 ---
