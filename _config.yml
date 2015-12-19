@@ -25,7 +25,7 @@ blog:
     description: The time is passing                     # 博客描述
     title: 无双                                          # 网页标题
     url: http://wu-shuang.github.io/                     # 博客地址
-    duoshuo: f8fad3e69e4786dd7a691f76ff1ae9e2            # 多说ID       <---
+    duoshuo: yyjn           # 多说ID       <---
     tongji: # e0d9a75a7e53b54cd1e6649facd5906e           # 百度统计ID   <--- 
     clickiTongJi: 					                     # Clicki统计ID <---
     qiniu:                                               # 七牛云地址
