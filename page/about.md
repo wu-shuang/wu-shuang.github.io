@@ -32,9 +32,9 @@ blockquote p {
 > 网名: 无双   
 > Email: <a href="mailto:zhongciyisheng@gmail.com">zhongciyisheng@gmail.com</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:zhongciyisheng@live.com">zhongciyisheng@live.com</a>  
-> qq:2220003888 <br />
-> 博&nbsp;&nbsp;客: <a href="http://wu-shuang.github.io/">comtu</a>  
-> GitHub：[comtu](https://github.com/wu-shuang)    
+> Q&nbsp;&nbsp;Q: 2220003888 <br />
+> 博&nbsp;&nbsp;客: <a href="http://wu-shuang.github.io/">wu-shuang</a>  
+> GitHub：[wu-shuang](https://github.com/wu-shuang)    
 > ....
 
 ---
